@@ -1,0 +1,21 @@
+{
+	"tempHash": "00DBD52219AE2726",
+	"tbluHash": "003CB31FE4C35C5B",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"cd1b68235a4e8226",
+				{
+					"AddPropertyAliasConnection": [
+						"m_eAtampy26DefaultGlowType",
+						{
+							"originalProperty": "m_eInstinctGlow",
+							"originalEntity": "24ac418ca65c671e"
+						}
+					]
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
