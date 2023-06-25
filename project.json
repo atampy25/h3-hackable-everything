@@ -1,3 +1,31 @@
 {
-    "customPaths": ["[assembly:/_pro/atampy26/camerascanhelper.entitytemplate].pc_entitytype", "[assembly:/_pro/atampy26/camerascanhelper.entitytemplate].pc_entityblueprint"]
+	"customPaths": [
+		"[assembly:/_pro/atampy26/camerascanhelper.entitytemplate].pc_entitytype",
+		"[assembly:/_pro/atampy26/camerascanhelper.entitytemplate].pc_entityblueprint"
+	],
+	"treeViewState": {
+		"00DDCC74AD917CAA": {
+			"expandedNodes": ["0594561be5ddfb63", "abcd76ee13b58229"],
+			"selectedEntity": "abcd05e3d1d6bc25"
+		},
+		"00C4101464308F37": { "expandedNodes": ["cc6fa68fff57eeb2"], "selectedEntity": "ee7d134e86cc2d63" },
+		"00DBD52219AE2726": { "expandedNodes": ["cd1b68235a4e8226"], "selectedEntity": "cd1b68235a4e8226" },
+		"00A146AC25C325DD": {
+			"expandedNodes": ["fbaf37e051c347dd", "abcd9d41e0642cb2"],
+			"selectedEntity": "abcd161278ae68c1"
+		},
+		"005653C610EB42B6": {
+			"selectedEntity": "feed9b9bf2f57775",
+			"expandedNodes": ["0e4351b1fb6d5a7a", "feed51931c0e2806"]
+		},
+		"002685B1F3DEA197": { "expandedNodes": ["fd488a94a64bdaed"], "selectedEntity": "feed806dfc08ee80" },
+		"00899C258A659F97": {
+			"expandedNodes": ["b2e89c58784b876d", "abcd4d847de8707c"],
+			"selectedEntity": "abcdd6ab1766b1ba"
+		},
+		"00A8DF8B526A15BC": {
+			"expandedNodes": ["c81986bd04e90ef6", "feed7b37909bd949"],
+			"selectedEntity": "feed474237472fcb"
+		}
+	}
 }
