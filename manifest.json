@@ -1,10 +1,10 @@
 {
-	"version": "1.4.0",
+	"version": "1.4.1",
 	"id": "Atampy26.HackableEverything",
 	"name": "Hackable Everything",
 	"description": "Expands the camera's hacking capabilities to a host of other tamper-able objects.",
 	"authors": ["Atampy26"],
-	"frameworkVersion": "2.0.0",
+	"frameworkVersion": "2.29.0",
 	"contentFolders": ["content"],
 	"options": [
 		{
